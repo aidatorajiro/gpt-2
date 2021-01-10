@@ -2,6 +2,8 @@
 
 This is a modified work of GPT-2, updated to work with tensorflow v2.
 
+Checked Python Version: 3.8.5 and 3.8.7.
+
 License of GPT-2 is as follows:
 
 ```
